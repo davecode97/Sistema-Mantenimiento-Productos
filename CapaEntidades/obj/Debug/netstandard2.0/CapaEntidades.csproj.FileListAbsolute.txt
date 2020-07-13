@@ -1,0 +1,8 @@
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.deps.json
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.pdb

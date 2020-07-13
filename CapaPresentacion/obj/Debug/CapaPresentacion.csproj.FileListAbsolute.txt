@@ -1,0 +1,47 @@
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.FRM_CATEGORIA.resources
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\System.Security.Permissions.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.FRM_MARCA.resources
+C:\Users\Acer\Desktop\Portafolio\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaEntidades.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\System.Security.Permissions.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaEntidades.pdb
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.FrmSuccess.resources
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.FRM_CATEGORIA.resources
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.FRM_MARCA.resources
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Acer\Desktop\Portafolio\Proyectos escritorio C#\SISTEMA MANTENIMIENTO PRODUCTOS\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

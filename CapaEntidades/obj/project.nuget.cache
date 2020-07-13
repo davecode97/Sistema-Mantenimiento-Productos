@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RiJRwsWBp4OShP1vOH2RYzhG8SCsR2EFtQKxhYFypJK/LHo9VoAdFOg2ieE4Ns1rXazk+cnj6bVk0XYxUMay8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\llane\\Desktop\\Portafolio\\Proyectos escritorio C#\\SISTEMA MANTENIMIENTO PRODUCTOS\\CapaEntidades\\CapaEntidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\llane\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\llane\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
